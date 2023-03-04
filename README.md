@@ -47,5 +47,5 @@ I would also like to extend my gratitude to the project reviewers who have provi
 
 
 # Blog post link
-https://medium.com/@dilupac/udacity-data-scientist-capstone-project-4ab8ee8a3b8c
+https://medium.com/@dilupac/udacity-data-scientist-capstone-project-4ab8ee8a3b8c 
 
