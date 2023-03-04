@@ -20,3 +20,4 @@ model_v2.pkl (final trained model file).
 The machine learning model created as part of this project has been trained and saved as model_v2.pkl, and it achieved an impressive AUROC score of 99%. The three most important features in predicting employee churn were found to be n_projects (workload), satisfaction (happiness), and tenure (experience), and a full list of feature importance can be found in both the .ipynb notebook and the corresponding blog post. The project also revealed a number of interesting insights from the exploratory data analysis performed on the dataset, which are detailed in both the notebook and the blog post.
 # Blog post link
 https://medium.com/@dilupac/udacity-data-scientist-capstone-project-4ab8ee8a3b8c
+
