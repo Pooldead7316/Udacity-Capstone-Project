@@ -16,6 +16,23 @@ Modelling table 1.csv,
 model_v1.pkl,
 Modelling table 2.csv, (final ABT for modelling).
 model_v2.pkl (final trained model file).
+Libraries Used - 
+1.Pandas
+2.Numpy
+3.matplotlib.pyplot
+4.Seaborn
+5.sklearn.linear_model
+6.sklearn.ensemble
+7.sklearn.model_selection
+8.sklearn.pipeline
+9.sklearn.preprocessing
+10.sklearn.model_selection
+11.sklearn.metrics
+12.pickle
+13.warnings
+
+
+
 ## Results
 The machine learning model created as part of this project has been trained and saved as model_v2.pkl, and it achieved an impressive AUROC score of 99%. The three most important features in predicting employee churn were found to be n_projects (workload), satisfaction (happiness), and tenure (experience), and a full list of feature importance can be found in both the .ipynb notebook and the corresponding blog post. The project also revealed a number of interesting insights from the exploratory data analysis performed on the dataset, which are detailed in both the notebook and the blog post.
 ## Acknowledgement
