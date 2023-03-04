@@ -18,6 +18,16 @@ Modelling table 2.csv, (final ABT for modelling).
 model_v2.pkl (final trained model file).
 ## Results
 The machine learning model created as part of this project has been trained and saved as model_v2.pkl, and it achieved an impressive AUROC score of 99%. The three most important features in predicting employee churn were found to be n_projects (workload), satisfaction (happiness), and tenure (experience), and a full list of feature importance can be found in both the .ipynb notebook and the corresponding blog post. The project also revealed a number of interesting insights from the exploratory data analysis performed on the dataset, which are detailed in both the notebook and the blog post.
+## Acknowledgement
+I would like to express my sincere gratitude to Udacity and their team of instructors and mentors for providing me with the opportunity to complete this data scientist capstone project. Their comprehensive curriculum and personalized guidance have equipped me with the necessary skills and knowledge to undertake this project with confidence.
+
+I would also like to extend my gratitude to the project reviewers who have provided me with constructive feedback, enabling me to improve my work and push my boundaries further. Additionally, I want to thank my fellow students in the program for their support and inspiration throughout this journey.
+
+
+
+
+
+
 # Blog post link
 https://medium.com/@dilupac/udacity-data-scientist-capstone-project-4ab8ee8a3b8c
 
